@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment 03</string>
+    <string name="student_label">Student</string>
+    <string name="employee_label">Employee</string>
+    <string name="other_label">Other</string>
+
+</resources>
